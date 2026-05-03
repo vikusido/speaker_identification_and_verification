@@ -1,0 +1,4 @@
+ecapa_model_cache/
+__pycache__/
+*.pyc
+.env
